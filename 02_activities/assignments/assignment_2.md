@@ -13,6 +13,7 @@
 **Good Data Visualization Example**
 
 **Q1**
+
 -Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       
 **answer**
